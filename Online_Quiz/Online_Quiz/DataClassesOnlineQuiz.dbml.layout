@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="DataClassesOnlineQuiz">
+  <DataContextMoniker Name="/DataClassesOnlineQuizDataContext" />
+  <nestedChildShapes>
+    <classShape Id="fd39a944-893c-457e-ac18-28cb54158236" absoluteBounds="0.75, 0.75, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/DataClassesOnlineQuizDataContext/Course" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7ac31aa1-c0b2-49df-aa63-84806ece7def" absoluteBounds="0.765, 1.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="15ed8fbe-1053-4089-88f9-4ff240ca7297" absoluteBounds="0.75, 2.75, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/DataClassesOnlineQuizDataContext/Question" />
+      <nestedChildShapes>
+        <elementListCompartment Id="bba55752-fac5-4236-9450-199994dee439" absoluteBounds="0.765, 3.21, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5b13bcab-dd4d-4bad-a31b-e8e758faaa7e" absoluteBounds="3.75, 0.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/DataClassesOnlineQuizDataContext/Quiz" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3a7c21cf-fbeb-4051-9928-0a871ab727f2" absoluteBounds="3.765, 1.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9453c731-df35-4aea-aa6b-3831e12c30bd" absoluteBounds="3.75, 3.75, 2, 1.9631982421875005">
+      <DataClassMoniker Name="/DataClassesOnlineQuizDataContext/UserQuiz" />
+      <nestedChildShapes>
+        <elementListCompartment Id="efde7a24-f94e-4054-bec4-78a67ca233d0" absoluteBounds="3.765, 4.21, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="fe8aebde-1d9b-4c6d-acfc-3ae738beeaa2" absoluteBounds="6.75, 0.75, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/DataClassesOnlineQuizDataContext/aspnet_User" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6abb29d2-2b04-4302-926d-c406be2d8fb5" absoluteBounds="6.765, 1.21, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
