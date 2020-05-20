@@ -1,5 +1,0 @@
-first change the version /v11.0 to /v12.0 and then Running this:
-
-sqllocaldb create "v12.0"
-
-From cmd prompt solved this for me...
