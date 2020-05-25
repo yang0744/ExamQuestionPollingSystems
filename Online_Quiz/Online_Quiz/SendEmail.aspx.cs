@@ -24,7 +24,7 @@ namespace Online_Quiz
                 SmtpClient smtpClient = new SmtpClient("smtp.gmail.com", 587);
                 smtpClient.EnableSsl = true;
                 smtpClient.UseDefaultCredentials = false;
-                smtpClient.Credentials = new System.Net.NetworkCredential("ccyang.work@gmail.com", "Pft96255"); //here
+                smtpClient.Credentials = new System.Net.NetworkCredential("email@gmail.com", "Password"); //here
                 smtpClient.Send(mailMessage);
                 lblStatus.Text = "Email sent successfully!";
             }
